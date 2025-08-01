@@ -1,0 +1,5 @@
+{
+  "name": "Career Discovery Quiz",
+  "description": "An interactive quiz that uses AI to analyze your interests and skills, matching you with ideal job roles to guide your career path.",
+  "requestFramePermissions": []
+}
