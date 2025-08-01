@@ -1,5 +1,7 @@
 # Career Discovery Quiz
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9f02e9aa-ea4c-4f69-98ce-0111c15002df" />
+
 This contains everything you need to run your app locally.
 
 ## Run Locally
